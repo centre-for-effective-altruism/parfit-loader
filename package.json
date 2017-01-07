@@ -1,0 +1,19 @@
+{
+  "name": "parfit-loader",
+  "version": "0.1.0",
+  "description": "Load data into the parfit service",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centre-for-effective-altruism/parfit-loader.git"
+  },
+  "author": "Sam Deere <tech@effectivealtruism.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centre-for-effective-altruism/parfit-loader/issues"
+  },
+  "homepage": "https://github.com/centre-for-effective-altruism/parfit-loader#readme"
+}
