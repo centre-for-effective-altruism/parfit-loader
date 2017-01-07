@@ -1,0 +1,3 @@
+dbport: 3306
+drupaldbname: gwwc_drupal      # [String] Name of your database
+civicrmdbname: gwwc_civicrm      # [String] Name of your database

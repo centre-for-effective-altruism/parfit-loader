@@ -1,0 +1,8 @@
+# MySQL Connection Settings
+dbhost: localhost   # [String] Good defaults for MAMP
+dbport: 8889        # [Int] Good defaults for MAMP
+dbuser: root        # [String] Good defaults for MAMP
+dbpassword: root    # [String] Good defaults for MAMP
+drupaldbname: drupal      # [String] Name of your Drupal database
+civicrmdbname: civicrm      # [String] Name of your CiviCRM database
+datadirectory: data      # [String] Name of the folder to store the CSV outputs
